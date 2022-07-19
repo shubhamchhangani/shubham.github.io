@@ -14,7 +14,6 @@
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "firebase": "^9.9.0",
-    "gh-pages": "^4.0.0",
     "gsap": "npm:gsap-trial@^3.10.4",
     "gsap-trial": "^3.9.0",
     "leaflet": "^1.7.1",
@@ -53,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
